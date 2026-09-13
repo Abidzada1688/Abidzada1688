@@ -51,9 +51,9 @@ Below are the primary repositories powering this profile hub. Click any card to 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abidzada1688&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abid Zada's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abidzada1688&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+[![Abid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abidzada1688&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abidzada1688&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abidzada1688&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
